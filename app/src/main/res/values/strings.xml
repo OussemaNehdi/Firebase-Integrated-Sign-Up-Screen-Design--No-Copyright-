@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">going</string>
+
+    <string name="signUp">SIGN UP</string>
+
+    <string name="email">Email</string>
+    <string name="passwd">Password </string>
+
+    <string name="putEmail">Type email here</string>
+    <string name="putPasswd">Type password here</string>
+
+    <string name="iAgreeWith">I agree with </string>
+    <string name="terms">Terms</string>
+    <string name="and"> and </string>
+    <string name="privacy">Privacy</string>
+    
+
+
+
+    <string name="haveAccount">Already have an account?</string>
+    <string name="haveAccountClick">Log in</string>
+
+</resources>
